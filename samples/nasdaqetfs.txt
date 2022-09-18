@@ -1,0 +1,325 @@
+Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
+ACT|AdvisorShares Vice ETF|G|N|N|100|Y|N
+AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
+AIQ|Global X Future Analytics Tech ETF|G|N|N|100|Y|N
+AIRR|First Trust RBA American Industrial Renaissance ETF|G|N|N|100|Y|N
+ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
+AMCA|iShares Russell 1000 Pure U.S. Revenue ETF|G|N|N|100|Y|N
+ANGL|VanEck Vectors Fallen Angel High Yield Bond ETF|G|N|N|100|Y|N
+BBH|VanEck Vectors Biotech ETF|G|N|N|100|Y|N
+BFIT|Global X Health & Wellness Thematic ETF|G|N|N|100|Y|N
+BGRN|iShares Global Green Bond ETF|G|N|N|100|Y|N
+BJK|VanEck Vectors Gaming ETF|G|N|N|100|Y|N
+BLCN|Reality Shares Nasdaq NextGen Economy ETF|G|N|N|100|Y|N
+BND|Vanguard Total Bond Market ETF|G|N|N|100|Y|N
+BNDW|Vanguard Total World Bond ETF|G|N|N|100|Y|N
+BNDX|Vanguard Total International Bond ETF|G|N|N|100|Y|N
+BOTZ|Global X Robotics & Artificial Intelligence ETF|G|N|N|100|Y|N
+BSAE|Invesco BulletShares 2021 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
+BSBE|Invesco BulletShares 2022 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
+BSCE|Invesco BulletShares 2023 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
+BSCK|Invesco BulletShares 2020 Corporate Bond ETF|G|N|N|100|Y|N
+BSCL|Invesco BulletShares 2021 Corporate Bond ETF|G|N|N|100|Y|N
+BSCM|Invesco BulletShares 2022 Corporate Bond ETF|G|N|N|100|Y|N
+BSCN|Invesco BulletShares 2023 Corporate Bond ETF|G|N|N|100|Y|N
+BSCO|Invesco BulletShares 2024 Corporate Bond ETF|G|N|N|100|Y|N
+BSCP|Invesco BulletShares 2025 Corporate Bond ETF|G|N|N|100|Y|N
+BSCQ|Invesco BulletShares 2026 Corporate Bond ETF|G|N|N|100|Y|N
+BSCR|Invesco BulletShares 2027 Corporate Bond ETF|G|N|N|100|Y|N
+BSCS|Invesco BulletShares 2028 Corporate Bond ETF|G|N|N|100|Y|N
+BSCT|Invesco BulletShares 2029 Corporate Bond ETF|G|N|N|100|Y|N
+BSDE|Invesco BulletShares 2024 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
+BSJK|Invesco BulletShares 2020 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJL|Invesco BulletShares 2021 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJM|Invesco BulletShares 2022 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJN|Invesco BulletShares 2023 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJO|Invesco BulletShares 2024 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJP|Invesco BulletShares 2025 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJQ|Invesco BulletShares 2026 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSJR|Invesco BulletShares 2027 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+BSML|Invesco BulletShares 2021 Municipal Bond ETF|G|N|N|100|Y|N
+BSMM|Invesco BulletShares 2022 Municipal Bond ETF|G|N|N|100|Y|N
+BSMN|Invesco BulletShares 2023 Municipal Bond ETF|G|N|N|100|Y|N
+BSMO|Invesco BulletShares 2024 Municipal Bond ETF|G|N|N|100|Y|N
+BSMP|Invesco BulletShares 2025 Municipal Bond ETF|G|N|N|100|Y|N
+BSMQ|Invesco BulletShares 2026 Municipal Bond ETF|G|N|N|100|Y|N
+BSMR|Invesco BulletShares 2027 Municipal Bond ETF|G|N|N|100|Y|N
+BSMS|Invesco BulletShares 2028 Municipal Bond ETF|G|N|N|100|Y|N
+BSMT|Invesco BulletShares 2029 Municipal Bond ETF|G|N|N|100|Y|N
+BTEC|Principal Healthcare Innovators Index ETF|G|N|N|100|Y|N
+BUG|Global X Cybersecurity ETF|G|N|N|100|Y|N
+CACG|ClearBridge All Cap Growth ETF|G|N|N|100|Y|N
+CATH|Global X S&P 500 Catholic Values ETF|G|N|N|100|Y|N
+CDC|VictoryShares US EQ Income Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
+CDL|VictoryShares US Large Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
+CEY|VictoryShares Emerging Market High Div Volatility Wtd ETF|G|N|N|100|Y|N
+CEZ|VictoryShares Emerging Market Volatility Wtd ETF|G|N|N|100|Y|N
+CFA|VictoryShares US 500 Volatility Wtd ETF|G|N|N|100|Y|N
+CFO|VictoryShares US 500 Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
+CHNA|Loncar China BioPharma ETF|G|N|N|100|Y|N
+CIBR|First Trust NASDAQ Cybersecurity ETF|G|N|N|100|Y|N
+CID|VictoryShares International High Div Volatility Wtd ETF|G|N|N|100|Y|N
+CIL|VictoryShares International Volatility Wtd ETF|G|N|N|100|Y|N
+CIZ|VictoryShares Developed Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
+CLOU|Global X Cloud Computing ETF|G|N|N|100|Y|N
+CLRG|IQ Chaikin U.S. Large Cap ETF|G|N|N|100|Y|N
+CNCR|Loncar Cancer Immunotherapy ETF|G|N|N|100|Y|N
+COMT|iShares Commodities Select Strategy ETF|G|N|N|100|Y|N
+CSA|VictoryShares US Small Cap Volatility Wtd ETF|G|N|N|100|Y|N
+CSB|VictoryShares US Small Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
+CSF|VictoryShares US Discovery Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
+CSML|IQ Chaikin U.S. Small Cap ETF|G|N|N|100|Y|N
+DALI|First Trust DorseyWright DALI 1 ETF|G|N|N|100|Y|N
+DAX|Global X DAX Germany ETF|G|N|N|100|Y|N
+DDIV|First Trust Dorsey Wright Momentum & Dividend ETF|G|N|N|100|Y|N
+DFNL|Davis Select Financial ETF|G|N|N|100|Y|N
+DINT|Davis Select International ETF|G|N|N|100|Y|N
+DRIV|Global X Autonomous & Electric Vehicles ETF|G|N|N|100|Y|N
+DUSA|Davis Select U.S. Equity ETF|G|N|N|100|Y|N
+DVLU|First Trust Dorsey Wright Momentum & Value ETF|G|N|N|100|Y|N
+DVOL|First Trust Dorsey Wright Momentum & Low Volatility ETF|G|N|N|100|Y|N
+DVY|iShares Select Dividend ETF|G|N|N|100|Y|N
+DWAS|Invesco DWA SmallCap Momentum ETF|G|N|N|100|Y|N
+DWAT|Arrow DWA Tactical ETF|G|N|N|100|Y|N
+DWAW|AdvisorShares Dorsey Wright FSM All Cap World ETF|G|N|N|100|Y|N
+DWCR|Arrow DWA Country Rotation ETF|G|N|N|100|Y|N
+DWEQ|AdvisorShares Dorsey Wright Alpha Equal Weight ETF|G|N|N|100|Y|N
+DWFI|SPDR Dorsey Wright Fixed Income Allocation ETF|G|N|N|100|Y|N
+DWLD|Davis Select Worldwide ETF|G|N|N|100|Y|N
+DWMC|AdvisorShares Dorsey Wright Micro-Cap ETF|G|N|N|100|Y|N
+DWPP|First Trust Dorsey Wright People's Portfolio ETF|G|N|N|100|Y|N
+DWSH|AdvisorShares Dorsey Wright Short ETF|G|N|N|100|Y|N
+DWUS|AdvisorShares Dorsey Wright FSM US Core ETF|G|N|N|100|Y|N
+EBIZ|Global X E-commerce ETF|G|N|N|100|Y|N
+ECOW|Pacer Emerging Markets Cash Cows 100 ETF|G|N|N|100|Y|N
+EEMA|iShares MSCI Emerging Markets Asia ETF|G|N|N|100|Y|N
+EFAS|Global X MSCI SuperDividend EAFE ETF|G|N|N|100|Y|N
+EMB|iShares J.P. Morgan USD Emerging Markets Bond ETF|G|N|N|100|Y|N
+EMXC|iShares MSCI Emerging Markets ex China ETF|G|N|N|100|Y|N
+ENZL|iShares MSCI New Zealand ETF|G|N|N|100|Y|N
+EQRR|ProShares Equities for Rising Rates ETF|G|N|N|100|Y|N
+ESGD|iShares ESG MSCI EAFE ETF|G|N|N|100|Y|N
+ESGE|iShares ESG MSCI EM ETF|G|N|N|100|Y|N
+ESGU|iShares ESG MSCI USA ETF|G|N|N|100|Y|N
+ESPO|VanEck Vectors Video Gaming and eSports ETF|G|N|N|100|Y|N
+ETFC|E*TRADE Financial Corporation - Common Stock|Q|N|N|100|N|N
+EWJE|iShares MSCI Japan Equal Weighted ETF|G|N|N|100|Y|N
+EWJV|iShares MSCI Japan Value ETF|G|N|N|100|Y|N
+EWZS|iShares MSCI Brazil Small-Cap ETF|G|N|N|100|Y|N
+FAAR|First Trust Alternative Absolute Return Strategy ETF|G|N|N|100|Y|N
+FALN|iShares Fallen Angels USD Bond ETF|G|N|N|100|Y|N
+FCAL|First Trust California Municipal High income ETF|G|N|N|100|Y|N
+FCEF|First Trust CEF Income Opportunity ETF|G|N|N|100|Y|N
+FCVT|First Trust SSI Strategic Convertible Securities ETF|G|N|N|100|Y|N
+FDIV|First Trust Strategic Income ETF|G|N|N|100|Y|N
+FDNI|First Trust Dow Jones International Internet ETF|G|N|N|100|Y|N
+FEMB|First Trust Emerging Markets Local Currency Bond ETF|G|N|N|100|Y|N
+FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100|Y|N
+FID|First Trust S&P International Dividend Aristocrats ETF|G|N|N|100|Y|N
+FINX|Global X FinTech ETF|G|N|N|100|Y|N
+FIXD|First Trust TCW Opportunistic Fixed Income ETF|G|N|N|100|Y|N
+FMB|First Trust Managed Municipal ETF|G|N|N|100|Y|N
+FMHI|First Trust Municipal High Income ETF|G|N|N|100|Y|N
+FPXE|First Trust IPOX Europe Equity Opportunities ETF|G|N|N|100|Y|N
+FPXI|First Trust International Equity Opportunities ETF|G|N|N|100|Y|N
+FTAG|First Trust Indxx Global Agriculture ETF|G|N|N|100|Y|N
+FTCS|First Trust Capital Strength ETF|G|N|N|100|Y|N
+FTHI|First Trust BuyWrite Income ETF|G|N|N|100|Y|N
+FTLB|First Trust Hedged BuyWrite Income ETF|G|N|N|100|Y|N
+FTRI|First Trust Indxx Global Natural Resources Income ETF|G|N|N|100|Y|N
+FTSL|First Trust Senior Loan Fund ETF|G|N|N|100|Y|N
+FTSM|First Trust Enhanced Short Maturity ETF|G|N|N|100|Y|N
+FTXD|First Trust Nasdaq Retail ETF|G|N|N|100|Y|N
+FTXG|First Trust Nasdaq Food & Beverage ETF|G|N|N|100|Y|N
+FTXH|First Trust Nasdaq Pharmaceuticals ETF|G|N|N|100|Y|N
+FTXL|First Trust Nasdaq Semiconductor ETF|G|N|N|100|Y|N
+FTXN|First Trust Nasdaq Oil & Gas ETF|G|N|N|100|Y|N
+FTXO|First Trust Nasdaq Bank ETF|G|N|N|100|Y|N
+FTXR|First Trust Nasdaq Transportation ETF|G|N|N|100|Y|N
+FV|First Trust Dorsey Wright Focus 5 ETF|G|N|N|100|Y|N
+FVC|First Trust Dorsey Wright Dynamic Focus 5 ETF|G|N|N|100|Y|N
+GENY|Principal Millennials Index ETF|G|N|N|100|Y|N
+GIGE|SoFi Gig Economy ETF|G|N|N|100|Y|N
+GNMA|iShares GNMA Bond ETF|G|N|N|100|Y|N
+GNOM|Global X Genomics & Biotechnology ETF|G|N|N|100|Y|N
+GXTG|Global X Thematic Growth ETF|G|N|N|100|Y|N
+HERD|Pacer Cash Cows Fund of Funds ETF|G|N|N|100|Y|N
+HERO|Global X Video Games & Esports ETF|G|N|N|100|Y|N
+HEWG|iShares Currency Hedged MSCI Germany ETF|G|N|N|100|Y|N
+HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
+HNDL|Strategy Shares Nasdaq 7HANDL Index ETF|G|N|N|100|Y|N
+HYLS|First Trust High Yield Long/Short ETF|G|N|N|100|Y|N
+HYXE|iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF|G|N|N|100|Y|N
+IBTA|iShares iBonds Dec 2021 Term Treasury ETF|G|N|N|100|Y|N
+IBTB|iShares iBonds Dec 2022 Term Treasury ETF|G|N|N|100|Y|N
+IBTD|iShares iBonds Dec 2023 Term Treasury ETF|G|N|N|100|Y|N
+IBTE|iShares iBonds Dec 2024 Term Treasury ETF|G|N|N|100|Y|N
+IBTF|iShares iBonds Dec 2025 Term Treasury ETF|G|N|N|100|Y|N
+IBTG|iShares iBonds Dec 2026 Term Treasury ETF|G|N|N|100|Y|N
+IBTH|iShares iBonds Dec 2027 Term Treasury ETF|G|N|N|100|Y|N
+IBTI|iShares iBonds Dec 2028 Term Treasury ETF|G|N|N|100|Y|N
+IBTJ|iShares iBonds Dec 2029 Term Treasury ETF|G|N|N|100|Y|N
+IBUY|Amplify Online Retail ETF|G|N|N|100|Y|N
+IDLB|Invesco FTSE International Low Beta Equal Weight ETF|G|N|N|100|Y|N
+IEF|iShares 7-10 Year Treasury Bond ETF|G|N|N|100|Y|N
+IEI|iShares 3-7 Year Treasury Bond ETF|G|N|N|100|Y|N
+IEUS|iShares MSCI Europe Small-Cap ETF|G|N|N|100|Y|N
+IFV|First Trust Dorsey Wright International Focus 5 ETF|G|N|N|100|Y|N
+IGF|iShares Global Infrastructure ETF|G|N|N|100|Y|N
+IGIB|iShares Intermediate-Term Corporate Bond ETF|G|N|N|100|Y|N
+IGOV|iShares International Treasury Bond ETF|G|N|N|100|Y|N
+IGSB|iShares Short-Term Corporate Bond ETF|G|N|N|100|Y|N
+IJT|iShares S&P Small-Cap 600 Growth ETF|G|N|N|100|Y|N
+INFR|Legg Mason Global Infrastructure ETF|G|N|N|100|Y|N
+IPKW|Invesco International BuyBack Achievers ETF|G|N|N|100|Y|N
+ISDS|Invesco RAFI Strategic Developed ex-US Small Company ETF|G|N|D|100|Y|N
+ISDX|Invesco RAFI Strategic Developed ex-US ETF|G|N|N|100|Y|N
+ISEM|Invesco RAFI Strategic Emerging Markets ETF|G|N|N|100|Y|N
+ISHG|iShares 1-3 Year International Treasury Bond ETF|G|N|N|100|Y|N
+ISTB|iShares Core 1-5 Year USD Bond ETF|G|N|N|100|Y|N
+IUS|Invesco RAFI Strategic US ETF|G|N|N|100|Y|N
+IUSB|iShares Core Total USD Bond Market ETF|G|N|N|100|Y|N
+IUSG|iShares Core S&P U.S. Growth ETF|G|N|N|100|Y|N
+IUSS|Invesco RAFI Strategic US Small Company ETF|G|N|N|100|Y|N
+IUSV|iShares Core S&P U.S. Value ETF|G|N|N|100|Y|N
+IXUS|iShares Core MSCI Total International Stock ETF|G|N|N|100|Y|N
+JKI|iShares Morningstar Mid-Cap ETF|G|N|N|100|Y|N
+JSMD|Janus Henderson Small/Mid Cap Growth Alpha ETF|G|N|N|100|Y|N
+JSML|Janus Henderson Small Cap Growth Alpha ETF|G|N|N|100|Y|N
+KBWB|Invesco KBW Bank ETF|G|N|N|100|Y|N
+KBWD|Invesco KBW High Dividend Yield Financial ETF|G|N|N|100|Y|N
+KBWP|Invesco KBW Property & Casualty Insurance ETF|G|N|N|100|Y|N
+KBWR|Invesco KBW Regional Banking ETF|G|N|N|100|Y|N
+KBWY|Invesco KBW Premium Yield Equity REIT ETF|G|N|N|100|Y|N
+KRMA|Global X Conscious Companies ETF|G|N|N|100|Y|N
+LDEM|iShares ESG MSCI EM Leaders ETF|G|N|N|100|Y|N
+LDSF|First Trust Low Duration Strategic Focus ETF|G|N|N|100|Y|N
+LEGR|First Trust Indxx Innovative Transaction & Process ETF|G|N|N|100|Y|N
+LMBS|First Trust Low Duration Opportunities ETF|G|N|N|100|Y|N
+LNGR|Global X Longevity Thematic ETF|G|N|N|100|Y|N
+LRGE|ClearBridge Large Cap Growth ESG ETF|G|N|N|100|Y|N
+LVHD|Legg Mason Low Volatility High Dividend ETF|G|N|N|100|Y|N
+MBB|iShares MBS ETF|G|N|N|100|Y|N
+MCEF|First Trust Municipal CEF Income Opportunity ETF|G|N|N|100|Y|N
+MCHI|iShares MSCI China ETF|G|N|N|100|Y|N
+MILN|Global X Millennials Thematic ETF|G|N|N|100|Y|N
+NFTY|First Trust India Nifty 50 Equal Weight ETF|G|N|N|100|Y|N
+NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
+OLD|The Long-Term Care ETF|G|N|N|100|Y|N
+PDBC|Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF|G|N|N|100|Y|N
+PDEV|Principal International Multi-Factor Core Index ETF|G|N|N|100|Y|N
+PDP|Invesco DWA Momentum ETF|G|N|N|100|Y|N
+PEY|Invesco High Yield Equity Dividend Achievers ETF|G|N|N|100|Y|N
+PEZ|Invesco DWA Consumer Cyclicals Momentum ETF|G|N|N|100|Y|N
+PFF|iShares Preferred and Income Securities ETF|G|N|N|100|Y|N
+PFI|Invesco DWA Financial Momentum ETF|G|N|N|100|Y|N
+PFM|Invesco Dividend Achievers ETF|G|N|N|100|Y|N
+PGJ|Invesco Golden Dragon China ETF|G|N|N|100|Y|N
+PHO|Invesco Water Resources ETF|G|N|N|100|Y|N
+PID|Invesco International Dividend Achievers ETF|G|N|N|100|Y|N
+PIE|Invesco DWA Emerging Markets Momentum ETF|G|N|N|100|Y|N
+PIO|Invesco Global Water ETF|G|N|N|100|Y|N
+PIZ|Invesco DWA Developed Markets Momentum ETF|G|N|N|100|Y|N
+PKW|Invesco BuyBack Achievers ETF|G|N|N|100|Y|N
+PLC|Principal U.S. Large-Cap Multi-Factor Core Index ETF|G|N|N|100|Y|N
+PLW|Invesco 1-30 Laddered Treasury ETF|G|N|N|100|Y|N
+PMOM|Principal Sustainable Momentum Index ETF|G|N|N|100|Y|N
+PNQI|Invesco Nasdaq Internet ETF|G|N|N|100|Y|N
+POTX|Global X Cannabis ETF|G|N|N|100|Y|N
+PPH|VanEck Vectors Pharmaceutical ETF|G|N|N|100|Y|N
+PRFZ|Invesco FTSE RAFI US 1500 Small-Mid ETF|G|N|N|100|Y|N
+PRN|Invesco DWA Industrials Momentum ETF|G|N|N|100|Y|N
+PSC|Principal U.S. Small-Cap Multi-Factor Index ETF|G|N|N|100|Y|N
+PSCC|Invesco S&P SmallCap Consumer Staples ETF|G|N|N|100|Y|N
+PSCD|Invesco S&P SmallCap Consumer Discretionary ETF|G|N|N|100|Y|N
+PSCE|Invesco S&P SmallCap Energy ETF|G|N|N|100|Y|N
+PSCF|Invesco S&P SmallCap Financials ETF|G|N|N|100|Y|N
+PSCH|Invesco S&P SmallCap Health Care ETF|G|N|N|100|Y|N
+PSCI|Invesco S&P SmallCap Industrials ETF|G|N|N|100|Y|N
+PSCM|Invesco S&P SmallCap Materials ETF|G|N|N|100|Y|N
+PSCT|Invesco S&P SmallCap Information Technology ETF|G|N|N|100|Y|N
+PSCU|Invesco S&P SmallCap Utilities & Communication Services ETF|G|N|N|100|Y|N
+PSET|Principal Price Setters Index ETF|G|N|N|100|Y|N
+PSL|Invesco DWA Consumer Staples Momentum ETF|G|N|N|100|Y|N
+PSM|Principal U.S. Small-MidCap Multi-Factor Core Index ETF|G|N|N|100|Y|N
+PTF|Invesco DWA Technology Momentum ETF|G|N|N|100|Y|N
+PTH|Invesco DWA Healthcare Momentum ETF|G|N|N|100|Y|N
+PUI|Invesco DWA Utilities Momentum ETF|G|N|N|100|Y|N
+PVAL|Principal Contrarian Value Index ETF|G|N|N|100|Y|N
+PXI|Invesco DWA Energy Momentum ETF|G|N|N|100|Y|N
+PY|Principal Shareholder Yield Index ETF|G|N|N|100|Y|N
+PYZ|Invesco DWA Basic Materials Momentum ETF|G|N|N|100|Y|N
+QAT|iShares MSCI Qatar ETF|G|N|N|100|Y|N
+QYLD|Global X NASDAQ-100 Covered Call ETF|G|N|N|100|Y|N
+RDVY|First Trust Rising Dividend Achievers ETF|G|N|N|100|Y|N
+RFAP|First Trust RiverFront Dynamic Asia Pacific ETF|G|N|N|100|Y|N
+RFDI|First Trust RiverFront Dynamic Developed International ETF|G|N|N|100|Y|N
+RFEM|First Trust RiverFront Dynamic Emerging Markets ETF|G|N|N|100|Y|N
+RFEU|First Trust RiverFront Dynamic Europe ETF|G|N|N|100|Y|N
+RING|iShares MSCI Global Gold Miners ETF|G|N|N|100|Y|N
+RNDM|First Trust Developed International Equity Select ETF|G|N|N|100|Y|N
+RNDV|First Trust US Equity Dividend Select ETF|G|N|N|100|Y|N
+RNEM|First Trust Emerging Markets Equity Select ETF|G|N|N|100|Y|N
+RNLC|First Trust Large Cap US Equity Select ETF|G|N|N|100|Y|N
+RNMC|First Trust Mid Cap US Equity Select ETF|G|N|N|100|Y|N
+RNSC|First Trust Small Cap US Equity Select ETF|G|N|N|100|Y|N
+ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
+RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
+SCZ|iShares MSCI EAFE Small-Cap ETF|G|N|N|100|Y|N
+SDG|iShares MSCI Global Impact ETF|G|N|N|100|Y|N
+SDVY|First Trust SMID Cap Rising Dividend Achievers ETF|G|N|N|100|Y|N
+SHV|iShares Short Treasury Bond ETF|G|N|N|100|Y|N
+SHY|iShares 1-3 Year Treasury Bond ETF|G|N|N|100|Y|N
+SKYY|First Trust Cloud Computing ETF|G|N|N|100|Y|N
+SLQD|iShares 0-5 Year Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
+SMCP|AlphaMark Actively Managed Small Cap ETF|G|N|N|100|Y|N
+SMH|VanEck Vectors Semiconductor ETF|G|N|N|100|Y|N
+SNLN|Highland/iBoxx Senior Loan ETF|G|N|N|100|Y|N
+SNSR|Global X Internet of Things ETF|G|N|N|100|Y|N
+SNUG|Merlyn.AI Tactical Growth & Income ETF|G|N|N|100|Y|N
+SOCL|Global X Social Media ETF|G|N|N|100|Y|N
+SQLV|Legg Mason Small-Cap Quality Value ETF|G|N|N|100|Y|N
+SRET|Global X SuperDividend REIT ETF|G|N|N|100|Y|N
+SUSB|iShares ESG 1-5 Year USD Corporate Bond ETF|G|N|N|100|Y|N
+SUSC|iShares ESG USD Corporate Bond ETF|G|N|N|100|Y|N
+SUSL|iShares ESG MSCI USA Leaders ETF|G|N|N|100|Y|N
+TLT|iShares 20+ Year Treasury Bond ETF|G|N|N|100|Y|N
+TTTN|UP Fintech China-U.S. Internet Titans ETF|G|N|N|100|Y|N
+TUR|iShares MSCI Turkey ETF|G|N|N|100|Y|N
+TUSA|First Trust Total US Market AlphaDEX ETF|G|N|N|100|Y|N
+UAE|iShares MSCI UAE ETF|G|N|N|100|Y|N
+UFO|Procure Space ETF|G|N|N|100|Y|N
+USIG|iShares Broad USD Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
+USLB|Invesco Russell 1000 Low Beta Equal Weight ETF|G|N|N|100|Y|N
+USMC|Principal U.S. Mega-Cap Multi-Factor Index ETF|G|N|N|100|Y|N
+VALX|Validea Market Legends ETF|G|N|N|100|Y|N
+VCIT|Vanguard Intermediate-Term Corporate Bond ETF|G|N|N|100|Y|N
+VCLT|Vanguard Long-Term Corporate Bond ETF|G|N|N|100|Y|N
+VCSH|Vanguard Short-Term Corporate Bond ETF|G|N|N|100|Y|N
+VETS|Pacer Military Times Best Employers ETF|G|N|N|100|Y|N
+VGIT|Vanguard Intermediate-Term Treasury ETF|G|N|N|100|Y|N
+VGLT|Vanguard Long-Treasury ETF|G|N|N|100|Y|N
+VGSH|Vanguard Short-Term Treasury ETF|G|N|N|100|Y|N
+VIGI|Vanguard International Dividend Appreciation ETF|G|N|N|100|Y|N
+VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100|Y|N
+VNQI|Vanguard Global ex-U.S. Real Estate ETF|G|N|N|100|Y|N
+VONE|Vanguard Russell 1000 ETF|G|N|N|100|Y|N
+VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100|Y|N
+VONV|Vanguard Russell 1000 Value ETF|G|N|N|100|Y|N
+VRIG|Invesco Variable Rate Investment Grade ETF|G|N|N|100|Y|N
+VSDA|VictoryShares Dividend Accelerator ETF|G|N|N|100|Y|N
+VSMV|VictoryShares US Multi-Factor Minimum Volatility ETF|G|N|N|100|Y|N
+VTC|Vanguard Total Corporate Bond ETF|G|N|N|100|Y|N
+VTHR|Vanguard Russell 3000 ETF|G|N|N|100|Y|N
+VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|100|Y|N
+VTWO|Vanguard Russell 2000 ETF|G|N|N|100|Y|N
+VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100|Y|N
+VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100|Y|N
+VXUS|Vanguard Total International Stock ETF|G|N|N|100|Y|N
+VYMI|Vanguard International High Dividend Yield ETF|G|N|N|100|Y|N
+WBND|Western Asset Total Return ETF|G|N|N|100|Y|N
+WETF|WisdomTree Investments, Inc. - Common Stock|Q|N|N|100|N|N
+WINC|Western Asset Short Duration Income ETF|G|N|N|100|Y|N
+XT|iShares Exponential Technologies ETF|G|N|N|100|Y|N
+YLCO|Global X YieldCo & Renewable Energy Income ETF|G|N|N|100|Y|N
+YLDE|ClearBridge Dividend Strategy ESG ETF|G|N|N|100|Y|N
