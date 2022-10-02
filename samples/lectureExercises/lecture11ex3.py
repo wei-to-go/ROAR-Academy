@@ -15,11 +15,13 @@ for i in range(page_number):
     page_text_ = page_text__.replace("Sense and Sensibility by Jane Austen","")
     page_text = page_text_.replace("Full Text Archive","")
     for word in page_text.split():
-        if word.isalpha() and word!='CHAPTER' and word!='TCPDF':
-            word = word.lower()
-            if word not in frequency_table:
-                frequency_table[word] = 1
-            else:
-                frequency_table[word] += 1
+        if not word[-1].isalpha():
+            word = word[:-1]
+            if word.isalpha() and word!='CHAPTER' and word!='TCPDF':
+                word = word.lower()
+                if word not in frequency_table:
+                    frequency_table[word] = 1
+                else:
+                    frequency_table[word] += 1
 
 print(frequency_table)
